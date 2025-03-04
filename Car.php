@@ -2,7 +2,7 @@
 
 class Car {
 
-    private $name;
+    public $name;
     public $model;
     public $year;
 
